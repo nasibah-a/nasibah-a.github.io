@@ -14,7 +14,7 @@ Here is some information on the test page
   
   
 ###this is html image
-<img href:"https://www.rd.com/list/cutest-bunnies/" target="blank_"/>
+<img src:"https://www.rd.com/list/cutest-bunnies/" target="blank_" width:"50px" height:"50px">
 
 ###this is markdown image
 ![cheese](https://www.rd.com/list/cutest-bunnies/)
