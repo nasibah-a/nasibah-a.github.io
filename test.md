@@ -20,5 +20,7 @@ Here is some information on the test page
 ## this is an image in markdown
 ![image](https://www.rd.com/wp-content/uploads/2020/04/GettyImages-694542042-e1586274805503.jpg)
 
+images cannot be resized using markdown, you need to use html
+
 ## this is an image in HTML (i scaled it down) 
-<img scr="https://www.rd.com/wp-content/uploads/2020/04/GettyImages-694542042-e1586274805503.jpg" height="50%" width="auto">
+<img src="https://www.rd.com/wp-content/uploads/2020/04/GettyImages-694542042-e1586274805503.jpg" height="50%" width="auto">
