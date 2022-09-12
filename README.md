@@ -248,4 +248,4 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
     
-<a href:"test.html" target="blank_">Test Page</a>
+<a href:"test.md" target="blank_">Test Page</a>
