@@ -1,4 +1,4 @@
-#This is a test page 
+# This is a test page
 
 Here is some information on the test page 
 
@@ -12,9 +12,10 @@ Here is some information on the test page
   i. chicken nuggets
   ii. crackers
   
-  
-###this is html image
-<img src:"https://www.rd.com/list/cutest-bunnies/" target="blank_" width:"50px" height:"50px">
+**This is bold text**
+*This text is fancy and slanted* 
+***this text is really really really important***
 
-###this is markdown image
-![cheese](https://www.rd.com/list/cutest-bunnies/)
+  
+## this is an image 
+![image](https://www.rd.com/wp-content/uploads/2020/04/GettyImages-694542042-e1586274805503.jpg)
