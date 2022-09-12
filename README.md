@@ -248,4 +248,4 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
     
-[test page](/test.md)
+[test page](https://nasibah-a.github.io/test.html)
